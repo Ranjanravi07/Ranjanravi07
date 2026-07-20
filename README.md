@@ -1,60 +1,106 @@
 <h1 align="center">Hi 👋, I'm Ravi Ranjan</h1>
-<h3 align="center">Aspiring Cybersecurity Professional | Ethical Hacking Learner | Flutter Developer</h3>
+
+<h3 align="center">
+Aspiring Cybersecurity Professional | Ethical Hacking Learner | Flutter Developer
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&color=00C853&center=true&vCenter=true&width=700&lines=Cybersecurity+Enthusiast;Ethical+Hacking+Learner;Flutter+Developer;Open+to+Cybersecurity+Internships" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Cybersecurity+Enthusiast;Ethical+Hacking+Learner;Flutter+Developer;Linux+%7C+Networking+%7C+Python;Open+to+Cybersecurity+Internships" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 💫 About Me
 
-- 🎓 IT Student passionate about **Cybersecurity & Ethical Hacking**
-- 🔐 Currently learning **Penetration Testing, Linux, Networking & Web Security**
-- 📱 Developing mobile applications using **Flutter & Firebase**
-- 🚀 Looking for **Cybersecurity Internship Opportunities**
-- 📚 Always learning and building real-world security projects
+🎓 IT Student passionate about Cybersecurity
+
+🔐 Currently learning Ethical Hacking & Penetration Testing
+
+💻 Building secure applications with Flutter & Firebase
+
+🌐 Interested in Network Security, Web Security & Cloud Security
+
+🚀 Looking for Cybersecurity Internship Opportunities
+
+📚 Always learning through projects and hands-on practice
 
 ---
 
-## 🚀 Tech Stack
+# 🛠️ Tech Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,c,cpp,flutter,firebase,dart"/>
+<img src="https://skillicons.dev/icons?i=python,c,cpp,dart,flutter,firebase"/><br>
 
-<img src="https://skillicons.dev/icons?i=linux,git,github,vscode,html,css,javascript,mysql"/>
+<img src="https://skillicons.dev/icons?i=linux,bash,git,github,html,css,javascript,mysql,vscode"/>
 
 </p>
 
 ---
 
-## 🔐 Cybersecurity Tools
-
+# 🔐 Cybersecurity Skills
 <p align="center">
 
 <img src="https://skillicons.dev/icons?i=linux"/>
 
 </p>
 
-- Kali Linux
+- Linux
+- Networking
 - Nmap
 - Wireshark
-- Metasploit
 - Burp Suite
+- Metasploit
 - OWASP Top 10
+- Web Security Fundamentals
 
 ---
 
-## 📌 Featured Project
+# 🚀 Current Focus
+
+✔ Ethical Hacking
+
+✔ Penetration Testing
+
+✔ Python Automation
+
+✔ Secure Coding
+
+✔ Flutter Development
+
+---
+
+# 📌 Featured Project
 
 ### 📱 Job Finder Mobile Application
 
-A Flutter & Firebase based application that connects unskilled and semi-skilled workers with employers.
+A Flutter and Firebase-based platform connecting unskilled and semi-skilled workers with employers.
 
 ---
 
-## 🌐 Connect with Me
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Ranjanravi07&theme=tokyonight"/>
+
+</p>
+
+---
+
+
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ranjanravi07&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
 
 <p align="center">
 
@@ -62,24 +108,14 @@ A Flutter & Firebase based application that connects unskilled and semi-skilled 
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:sahranjanravi@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="mailto: sahranjanravi@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
 </p>
 
 ---
 
-## 📈 Profile Views
+# 💭 Quote
 
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Ranjanravi07&label=Profile%20Views&color=blue&style=flat"/>
-
-</p>
-
----
-
-## 💡 Quote
-
-> "Security is not a product, but a process." – Bruce Schneier
+> "The best way to secure a system is to understand how it can be attacked."
