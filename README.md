@@ -87,8 +87,15 @@ A Flutter and Firebase-based platform connecting unskilled and semi-skilled work
 </p>
 
 ---
+## 👁️ Profile Views
 
+<p align="center">
 
+<img src="https://komarev.com/ghpvc/?username=Ranjanravi07&label=Profile%20Views&color=blue&style=flat"/>
+
+</p>
+
+---
 
 # 📈 Contribution Graph
 
